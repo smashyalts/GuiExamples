@@ -1,0 +1,4 @@
+name: Guiexamples
+version: '${project.version}'
+main: guiexamples.guiexamples.Guiexamples
+api-version: 1.19
